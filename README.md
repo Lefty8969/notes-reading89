@@ -6,3 +6,4 @@
 * Remember why you're doing it
 * Lastly, follow through
 ![image](https://github.com/Lefty8969/Getting-Git/assets/143355338/bf667fb6-882c-4553-b134-daf746ddc31e) 
+ 
